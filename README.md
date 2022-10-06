@@ -1,0 +1,2 @@
+This program was created to compare the Merge Sort and Bubble Sort sorting algorithms.
+Merge Sort sorts faster than Bubble Sort except when the length of the array that needs to be sorted is very small.
